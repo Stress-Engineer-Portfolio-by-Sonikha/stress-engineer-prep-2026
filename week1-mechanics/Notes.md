@@ -5,6 +5,16 @@
 * **Material Behavior:** Hooke's Law, Stress-Strain curve ($\sigma$-$\epsilon$ relationship)
 * **Loading & Effects:** Axial loading and Thermal stresses
 
+## Stress-Strain Curves
+
+<img width="655" height="417" alt="stress strain curve of steel" src="https://github.com/user-attachments/assets/e1bebd2b-35c7-46d6-aff8-9ded0dba7e21" />
+
+<img width="573" height="278" alt="stress strain curve of aluminium" src="https://github.com/user-attachments/assets/8a410bbc-b8f0-46a0-b6e3-0ffeffbc3d5b" />
+
+
+<img width="775" height="375" alt="image" src="https://github.com/user-attachments/assets/42cb3e6d-2919-4020-b614-38c124375807" />
+
+
 ## Aerospace Metals — Mechanical Properties Comparison
 
 | Metal | Young's Modulus (E) | Yield Strength | UTS | Elongation | Typical Use |
