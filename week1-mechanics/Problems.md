@@ -1,5 +1,4 @@
 ## Problem 1:
-<img width="1090" height="1600" alt="image" src="https://github.com/user-attachments/assets/9cffb21f-acf3-4c03-bb6d-74f3062d969a" />
 <img width="1122" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6e91ad8-e9ad-43f9-9b11-5c8744944caa" />
 
 ## Problem 2:
